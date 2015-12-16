@@ -17,7 +17,7 @@
       <option name="program" value="$USER_HOME$/Sites/es6test/node_modules/babel-cli/bin/babel.js" />
       <option name="scopeName" value="local" />
       <option name="trackOnlyRoot" value="true" />
-      <option name="workingDir" value="$USER_HOME$/Sites/es6test/js" />
+      <option name="workingDir" value="$USER_HOME$/Sites/es6test/compiled" />
       <envs />
     </TaskOptions>
   </component>
