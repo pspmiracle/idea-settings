@@ -1,6 +1,6 @@
 <application>
   <component name="ApplicationTasksOptions">
-    <TaskOptions isEnabled="false">
+    <TaskOptions isEnabled="true">
       <option name="arguments" value="--source-maps --out-file $FileNameWithoutExtension$-compiled.js $FilePath$" />
       <option name="checkSyntaxErrors" value="true" />
       <option name="description" value="Transpiles ECMAScript 6 code to ECMAScript 5" />
@@ -15,7 +15,7 @@
       <option name="outputFromStdout" value="false" />
       <option name="passParentEnvs" value="true" />
       <option name="program" value="$USER_HOME$/Sites/es6test/node_modules/babel-cli/bin/babel.js" />
-      <option name="scopeName" value="Project Files" />
+      <option name="scopeName" value="local" />
       <option name="trackOnlyRoot" value="true" />
       <option name="workingDir" value="$USER_HOME$/Sites/es6test/js" />
       <envs />
