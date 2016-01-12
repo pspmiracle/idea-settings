@@ -1,5 +1,17 @@
 <application>
   <component name="libraryTable">
+    <library name="api" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$USER_HOME$/Library/Caches/IntelliJIdea14/extLibs/http_m.kizi.com_games_api.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea14/extLibs/http_m.kizi.com_games_api.js" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
     <library name="Node.js v0.12.0 Core Modules" type="javaScript">
       <properties>
         <option name="frameworkName" value="Node.js Core Modules" />
