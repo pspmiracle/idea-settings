@@ -80,6 +80,9 @@
     </option>
     <option name="LAST_SELECTED_LANGUAGE" value="JavaScript" />
   </component>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/usr/local/bin/node" />
+  </component>
   <component name="RecentDirectoryProjectsManager">
     <option name="recentPaths">
       <list>
