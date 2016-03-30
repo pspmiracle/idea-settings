@@ -83,6 +83,9 @@
   <component name="NodeJsLocalInterpreters">
     <local-interpreter path="/usr/local/bin/node" />
   </component>
+  <component name="NodeLocalInterpreterManager">
+    <node-interpreter path="/usr/local/bin/node" version="0.12.0" last-modified="1423253995000" />
+  </component>
   <component name="RecentDirectoryProjectsManager">
     <option name="recentPaths">
       <list>
