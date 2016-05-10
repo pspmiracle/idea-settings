@@ -1,18 +1,25 @@
 <application>
   <component name="CodeFoldingSettings">
-    <option name="COLLAPSE_METHODS" value="true" />
+    <option name="COLLAPSE_IMPORTS" value="false" />
   </component>
   <component name="DaemonCodeAnalyzerSettings">
     <option name="NEXT_ERROR_ACTION_GOES_TO_ERRORS_FIRST" value="false" />
   </component>
   <component name="JSCodeFoldingSettings">
-    <option name="collapseArrayLiterals" value="true" />
+    <option name="collapseJSImports" value="false" />
     <option name="collapseObjectLiterals" value="true" />
     <option name="COLLAPSE_OBJECT_LITERALS" value="true" />
-    <option name="COLLAPSE_ARRAY_LITERALS" value="true" />
+    <option name="COLLAPSE_JS_IMPORTS" value="false" />
   </component>
   <component name="JavaCodeFoldingSettings">
-    <option name="collapseAnonymousClasses" value="true" />
-    <option name="COLLAPSE_ANONYMOUS_CLASSES" value="true" />
+    <option name="collapseConstructorGenericParameters" value="false" />
+    <option name="collapseLambdas" value="false" />
+    <option name="COLLAPSE_ONE_LINE_METHODS" value="false" />
+    <option name="COLLAPSE_CLOSURES" value="false" />
+    <option name="COLLAPSE_CONSTRUCTOR_GENERIC_PARAMETERS" value="false" />
+  </component>
+  <component name="XmlFoldingSettings">
+    <option name="collapseHtmlStyleAttribute" value="false" />
+    <option name="COLLAPSE_HTML_STYLE_ATTRIBUTE" value="false" />
   </component>
 </application>
