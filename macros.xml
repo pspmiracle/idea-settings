@@ -1,8 +1,8 @@
 <application>
   <component name="ActionMacroManager">
-    <macro name="goimports macro">
-      <action id="Tool_External Tools_goimports" />
+    <macro name="goimports macros">
       <action id="SaveAll" />
+      <action id="Tool_External Tools_goimports" />
     </macro>
   </component>
 </application>
