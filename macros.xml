@@ -1,8 +1,14 @@
 <application>
   <component name="ActionMacroManager">
-    <macro name="goimports macros">
+    <macro name="organizeimports">
+      <action id="ReformatCode" />
+      <action id="OptimizeImports" />
       <action id="SaveAll" />
-      <action id="Tool_External Tools_goimports" />
+    </macro>
+    <macro name="reformat on save">
+      <action id="ReformatCode" />
+      <action id="OptimizeImports" />
+      <action id="SaveAll" />
     </macro>
   </component>
 </application>

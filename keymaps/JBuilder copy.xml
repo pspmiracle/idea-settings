@@ -1,0 +1,10 @@
+<keymap version="1" name="JBuilder copy" parent="JBuilder">
+  <action id="Macro.reformat on save">
+    <keyboard-shortcut first-keystroke="shift meta s" />
+  </action>
+  <action id="SaveAll">
+    <keyboard-shortcut first-keystroke="ctrl s" />
+    <keyboard-shortcut first-keystroke="shift ctrl a" />
+    <keyboard-shortcut first-keystroke="meta s" />
+  </action>
+</keymap>
