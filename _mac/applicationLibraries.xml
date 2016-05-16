@@ -1,13 +1,25 @@
 <application>
   <component name="libraryTable">
-    <library name="api" type="javaScript">
+    <library name="developer" type="javaScript">
       <properties>
         <sourceFilesUrls>
-          <item url="file://$USER_HOME$/Library/Caches/IntelliJIdea14/extLibs/http_m.kizi.com_games_api.js" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.gameplayer.io_api_js_developer.js" />
         </sourceFilesUrls>
       </properties>
       <CLASSES>
-        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea14/extLibs/http_m.kizi.com_games_api.js" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.gameplayer.io_api_js_developer.js" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="game" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.gameplayer.io_api_js_game.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.gameplayer.io_api_js_game.js" />
       </CLASSES>
       <JAVADOC />
       <SOURCES />
