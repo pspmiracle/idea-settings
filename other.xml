@@ -81,11 +81,11 @@
     <option name="LAST_SELECTED_LANGUAGE" value="JavaScript" />
   </component>
   <component name="NodeJsLocalInterpreters">
-    <local-interpreter path="$USER_HOME$/Desktop/electron-quick/electron-quick-start/node_modules/.bin/electron">
-      <version-cache version="1.4.1" last-modified="1474543546000" />
-    </local-interpreter>
     <local-interpreter path="/usr/local/bin/node">
       <version-cache version="6.2.2" last-modified="1467394677000" />
+    </local-interpreter>
+    <local-interpreter path="$USER_HOME$/Desktop/electron-quick/electron-quick-start/node_modules/.bin/electron">
+      <version-cache version="1.4.1" last-modified="1474543546000" />
     </local-interpreter>
   </component>
   <component name="NodeLocalInterpreterManager">
