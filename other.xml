@@ -86,7 +86,7 @@
     </local-interpreter>
   </component>
   <component name="NodeLocalInterpreterManager">
-    <node-interpreter path="/usr/local/bin/node" version="0.12.0" last-modified="1423253995000" />
+    <node-interpreter path="/usr/local/bin/node" version="6.2.2" last-modified="1467394677000" />
   </component>
   <component name="RecentDirectoryProjectsManager">
     <option name="recentPaths">
