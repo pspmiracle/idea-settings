@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'Winx Dress-Up'" />
-    <option name="defaultScopeName" value="Project 'Winx Dress-Up'" />
-    <option name="SEARCH_SCOPE" value="Project 'Winx Dress-Up'" />
+    <option name="customScope" value="File '.../dev/client/game.js - [winxdressupmodule]'" />
+    <option name="defaultScopeName" value="File '.../dev/client/game.js - [winxdressupmodule]'" />
+    <option name="SEARCH_SCOPE" value="File '.../dev/client/game.js - [winxdressupmodule]'" />
   </component>
 </application>
