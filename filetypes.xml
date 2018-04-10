@@ -2,6 +2,8 @@
   <component name="FileTypeManager" version="17">
     <ignoreFiles list="*.hprof;*.iml;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;vssver.scc;vssver2.scc;" />
     <extensionMap>
+      <mapping pattern="gridmanager" type="JavaScript" />
+      <mapping pattern="gridmanager.js" type="PLAIN_TEXT" />
       <mapping ext="sed" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
