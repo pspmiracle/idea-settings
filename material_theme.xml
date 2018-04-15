@@ -1,0 +1,15 @@
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="version" value="2.1.5.3" />
+    <option name="highlightColor" value="80cbc4" />
+    <option name="highlightThickness" value="3" />
+    <option name="isBoldTabs" value="true" />
+    <option name="isCustomTreeIndentEnabled" value="true" />
+    <option name="accentColor" value="80cbc4" />
+    <option name="compactSidebar" value="true" />
+    <option name="isCompactStatusBar" value="true" />
+    <option name="customSidebarHeight" value="22" />
+    <option name="darkTitleBar" value="true" />
+    <option name="tabOpacity" value="54" />
+  </component>
+</application>
