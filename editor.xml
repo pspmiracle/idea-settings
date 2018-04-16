@@ -3,4 +3,5 @@
     <option name="USE_SOFT_WRAPS" value="" />
     <option name="SHOW_BREADCRUMBS" value="false" />
   </component>
+  <component name="LiveEditOptions" chromeUpdateApp="true" />
 </application>
