@@ -3,23 +3,21 @@
     <option name="COLLAPSE_IMPORTS" value="false" />
   </component>
   <component name="CodeInsightSettings">
+    <option name="SHOW_PARAMETER_NAME_HINTS_ON_COMPLETION" value="true" />
+    <option name="PARAMETER_INFO_DELAY" value="0" />
+    <option name="AUTO_POPUP_JAVADOC_INFO" value="true" />
     <option name="COMPLETION_CASE_SENSITIVE" value="2" />
   </component>
   <component name="DaemonCodeAnalyzerSettings">
     <option name="NEXT_ERROR_ACTION_GOES_TO_ERRORS_FIRST" value="false" />
   </component>
   <component name="JSCodeFoldingSettings">
-    <option name="collapseJSImports" value="false" />
     <option name="collapseObjectLiterals" value="true" />
     <option name="COLLAPSE_OBJECT_LITERALS" value="true" />
-    <option name="COLLAPSE_JS_IMPORTS" value="false" />
   </component>
   <component name="JavaCodeFoldingSettings">
     <option name="collapseConstructorGenericParameters" value="false" />
     <option name="collapseLambdas" value="false" />
-    <option name="COLLAPSE_ONE_LINE_METHODS" value="false" />
-    <option name="COLLAPSE_CLOSURES" value="false" />
-    <option name="COLLAPSE_CONSTRUCTOR_GENERIC_PARAMETERS" value="false" />
   </component>
   <component name="XmlFoldingSettings">
     <option name="COLLAPSE_HTML_STYLE_ATTRIBUTE" value="false" />
