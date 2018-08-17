@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern="gridmanager" type="JavaScript" />
       <mapping ext="sed" type="PLAIN_TEXT" />
+      <mapping ext="toml" type="PLAIN_TEXT" />
       <mapping ext="ycy" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
