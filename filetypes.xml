@@ -6,6 +6,7 @@
       <mapping ext="sed" type="PLAIN_TEXT" />
       <mapping ext="toml" type="PLAIN_TEXT" />
       <mapping ext="ycy" type="PLAIN_TEXT" />
+      <mapping ext="env" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
