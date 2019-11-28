@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '.../WebContent/src/views'" />
-    <option name="defaultScopeName" value="Directory '.../WebContent/src/views'" />
-    <option name="SEARCH_SCOPE" value="Directory '.../WebContent/src/views'" />
+    <option name="customScope" value="Project 'hollywood-clicker'" />
+    <option name="defaultScopeName" value="Project 'hollywood-clicker'" />
+    <option name="SEARCH_SCOPE" value="Project 'hollywood-clicker'" />
   </component>
 </application>
