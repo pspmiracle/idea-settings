@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '.../WebContent/src/configs'" />
-    <option name="defaultScopeName" value="Directory '.../WebContent/src/configs'" />
-    <option name="SEARCH_SCOPE" value="Directory '.../WebContent/src/configs'" />
+    <option name="customScope" value="Directory '.../WebContent/src/views/ui/gameUI'" />
+    <option name="defaultScopeName" value="Directory '.../WebContent/src/views/ui/gameUI'" />
+    <option name="SEARCH_SCOPE" value="Directory '.../WebContent/src/views/ui/gameUI'" />
   </component>
 </application>
