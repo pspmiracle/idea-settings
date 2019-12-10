@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'hollywood-clicker'" />
-    <option name="defaultScopeName" value="Project 'hollywood-clicker'" />
-    <option name="SEARCH_SCOPE" value="Project 'hollywood-clicker'" />
+    <option name="customScope" value="File '.../WebContent/src/controllers/GameController.ts'" />
+    <option name="defaultScopeName" value="File '.../WebContent/src/controllers/GameController.ts'" />
+    <option name="SEARCH_SCOPE" value="File '.../WebContent/src/controllers/GameController.ts'" />
   </component>
 </application>
