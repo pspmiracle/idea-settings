@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../WebContent/src/views/ui/hints/SkillHintView.ts'" />
-    <option name="defaultScopeName" value="File '.../WebContent/src/views/ui/hints/SkillHintView.ts'" />
-    <option name="SEARCH_SCOPE" value="File '.../WebContent/src/views/ui/hints/SkillHintView.ts'" />
+    <option name="customScope" value="Directory '.../WebContent/src/views'" />
+    <option name="defaultScopeName" value="Directory '.../WebContent/src/views'" />
+    <option name="SEARCH_SCOPE" value="Directory '.../WebContent/src/views'" />
   </component>
 </application>
