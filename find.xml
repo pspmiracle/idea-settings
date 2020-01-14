@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../WebContent/src/utils/TextUtils.ts'" />
-    <option name="defaultScopeName" value="File '.../WebContent/src/utils/TextUtils.ts'" />
-    <option name="SEARCH_SCOPE" value="File '.../WebContent/src/utils/TextUtils.ts'" />
+    <option name="customScope" value="File '.../WebContent/src/utils/AutoTapLimiter.ts'" />
+    <option name="defaultScopeName" value="File '.../WebContent/src/utils/AutoTapLimiter.ts'" />
+    <option name="SEARCH_SCOPE" value="File '.../WebContent/src/utils/AutoTapLimiter.ts'" />
   </component>
 </application>
