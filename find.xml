@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../WebContent/src/utils/ModelHelper.ts'" />
-    <option name="defaultScopeName" value="File '.../WebContent/src/utils/ModelHelper.ts'" />
-    <option name="SEARCH_SCOPE" value="File '.../WebContent/src/utils/ModelHelper.ts'" />
+    <option name="customScope" value="File '.../WebContent/src/controllers/network/AnalyticsSender.ts'" />
+    <option name="defaultScopeName" value="File '.../WebContent/src/controllers/network/AnalyticsSender.ts'" />
+    <option name="SEARCH_SCOPE" value="File '.../WebContent/src/controllers/network/AnalyticsSender.ts'" />
   </component>
 </application>
